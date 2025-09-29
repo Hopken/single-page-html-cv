@@ -3,7 +3,7 @@
 
 This is a responsive, single-page CV built with semantic HTML and CSS. It includes sections for education, skills, and career history, plus SEO and Open Graph meta tags for better discoverability and sharing.
 
-https://github.com/Hopken/single-page-html-cv
+[https://github.com/Hopken/single-page-html-cv](https://roadmap.sh/projects/single-page-cv)
 
 ## 🚀 Getting Started
 
