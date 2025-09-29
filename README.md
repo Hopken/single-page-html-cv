@@ -42,11 +42,11 @@ Make sure you have the **Live Server** extension installed in VS Code.
 
 ## 🌐 Live Demo
 
-Once published, your site will be available at:
+You can check out the page here:
 
-```
+
 https://hopken.github.io/single-page-html-cv/
-```
+
 
 
 ---
