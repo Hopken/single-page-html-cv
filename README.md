@@ -54,5 +54,3 @@ https://hopken.github.io/single-page-html-cv/
 ## 🛠️ License
 
 This project is open-source and free to use. Feel free to fork, remix, and build upon it.
-
-```
